@@ -1,5 +1,3 @@
-from math import *
-
 def get_calibration_value(infile):
     words = []
     numvals = []
